@@ -8,9 +8,9 @@ In this section of the curriculum, you will be introduced to the base concepts u
 ### Lessons
 
 1. [Introduction to machine learning](1-intro-to-ML/README.md)
-1. [The History of machine learning and AI](2-history-of-ML/README.md)
-1. [Fairness and machine learning](3-fairness/README.md)
-1. [Techniques of machine learning](4-techniques-of-ML/README.md)
+2. [The History of machine learning and AI](2-history-of-ML/README.md)
+3. [Fairness and machine learning](3-fairness/README.md)
+4. [Techniques of machine learning](4-techniques-of-ML/README.md)
 ### Credits
 
 "Introduction to Machine Learning" was written with ♥️ by a team of folks including [Muhammad Sakib Khan Inan](https://twitter.com/Sakibinan), [Ornella Altunyan](https://twitter.com/ornelladotcom) and [Jen Looper](https://twitter.com/jenlooper)
